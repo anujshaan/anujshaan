@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Anuj Shaan](https://www.github.com/anujshaan), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Anuj Shaan](https://anujshaan.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 JSX          7 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.25 % 
 JavaScript   6 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.49 % 
-MDX          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+ThreeJS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
